@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "COURSE"
+  title: "Programming in MATLAB"
   sidebar:
     style: "floating"
     contents:

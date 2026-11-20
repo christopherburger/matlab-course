@@ -46,12 +46,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Course Template",
+    "title": "Programming in MATLAB",
     "section": "",
-    "text": "This is the central repository for the lecture notes for COURSE.",
+    "text": "This is the central repository for the lecture notes for CSCI 1051.",
     "crumbs": [
       "Course Info",
-      "Course Template"
+      "Programming in MATLAB"
     ]
   }
 ]
