@@ -1,6 +1,6 @@
 ---
-title: "Programming in MATLAB"
-subtitle: "Name"
+title: "Course Overview"
+subtitle: "Programming in MATLAB"
 author: "Christopher Burger"
 institute: "University of Mississippi | School of Engineering"
 format: 
