@@ -12,4 +12,6 @@ format:
     css: styles.css
 ---
 
-This is the central repository for the lecture notes for CSCI 1051.
+This is the central repository for the lecture notes for CSCI 1051 (Programming for Engineers and Scientists).
+
+**This course is currently under construction.**
